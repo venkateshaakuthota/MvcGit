@@ -10,8 +10,7 @@ namespace git_sample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("my first git clone");
-
+            Console.WriteLine("my first git clone, welcome");
         }
     }
 }
